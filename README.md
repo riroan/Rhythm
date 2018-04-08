@@ -1,5 +1,5 @@
 # Rhythm
 
-My novicey work
+My novicey work.
 No sound.
-update soon
+update soon.
